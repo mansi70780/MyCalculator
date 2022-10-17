@@ -10,6 +10,8 @@ public class MainCalculator {
 		System.out.println("Subtraction is"+difference);
 		int divide=calc.division(10,20);
 		System.out.println("Divison is"+divide);
+		int multiply=calc.multiplication(10,20);
+		System.out.println("Multiplication is"+multiply);
 		// TODO Auto-generated method stub
 
 	}
